@@ -640,6 +640,7 @@
 | [Simple Parallax](https://simpleparallax.com/)| The easiest way to get a parallax effect with javascript |
 | [KUTE.js](https://thednp.github.io/kute.js/)| KUTE.js is a JavaScript animation engine for modern browsers. |
 | [Granim.js](https://sarcadass.github.io/granim.js/index.html)| Create fluid and interactive gradient animations with this small javascript library. |
+| [Mo.js](https://mojs.github.io/)| Mo.js is a javascript motion graphics library that is a fast, retina ready, modular and open source. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
